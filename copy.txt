@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Empresa</title>
+ </head>
+ <body>
+  <img src="c:\Users\ESTUDIANTE\Downloads\Blue White Simple Aesthetic Book Cafe Logo (1).png" width="200" height="200" />
+  <img src="c:\Users\ESTUDIANTE\Downloads\Tarjeta de agradecimiento Gracias por tu compra acuarela Creativo Marrón.png" width="300" height="200" />
+
+ <img src="c:\Users\ESTUDIANTE\Downloads\texto.png" width="900" height="800">
+
+<fieldset  style="background-color: rgb(204, 144, 103)">
+    <b>Book Coffe</b> es una encantadora empresa que combina la pasión por el café con el amor por la lectura. Nuestra empresa se dedica a crear un espacio acogedor y relajante donde las personas puedan disfrutar de una buena taza de café mientras exploran una amplia selección de libros.
+    Nuestras instalaciones están diseñadas con un ambiente cálido y acogedor. Tenemos estanterías llenas de libros de diferentes géneros y temáticas, desde novelas clásicas hasta las últimas novedades literarias.
+    Además de nuestra biblioteca, contamos con una cafetería donde servimos café de alta calidad.
+    <i>Nuestros baristas expertos están capacitados para preparar una variedad de bebidas, desde el clásico espresso hasta deliciosos lattes y capuchinos.
+    </i> Utilizamos granos de café cuidadosamente seleccionados y garantizamos una experiencia de sabor excepcional para satisfacer incluso a los amantes del café más exigentes.
+    Queremos ser un punto de encuentro para los amantes de la literatura y brindarles un espacio donde puedan compartir sus experiencias, intercambiar ideas y conectar con personas afines.
+    Además, ofrecemos servicios adicionales como acceso a Wi-Fi gratuito para aquellos que deseen trabajar o estudiar en un ambiente tranquilo, así como una pequeña selección de productos de papelería y regalos relacionados con la literatura.
+    En resumen, Book Coffe es más que una simple cafetería.
+
+ </body>
+</fieldset>
+<center>
+<h1 style="color: rgb(136, 74, 57);">Carta</h1>
+<img src="c:\Users\ESTUDIANTE\Documents\Nueva carpeta\Menú Cafetería Doodle Crema.png" alt="400" width="400">
+</center>
+<ul>
+<li>
+   <b><p>Objetivos Generales </b>
+ Formular un plan de negocios para la creación de una unidad productiva dedicada al café y libros
+ya que es algo que hace sentir a la gente comoda y alegre, tambien es un espacio para que la gente vaya a hacer 
+tareas o trabajos que se pueda realizar en un omputador para que cambien de ambiente. </p>
+</li>
+<li>
+   <b><ul><p>Objetivos Específicos</b>
+     
+  <li> 1. Mejorar siempre la calidad del café, capacitación al personal para una mejor atención
+al cliente e ir mejorando el ambiente del sitio para más interés a las personas.	</li>					
+<li>2. Tener diferentes estrategias para el éxito del lugar, un sitio llamativo
+y lindo que atraiga la atención al cliente.</li>							
+<li>3. Con cuatro administrativas capacitadas para la realización del café,
+se tiene en cuenta los intereses de las personas para que estén en un ambiente agradable.</li>	                              						
+<li>4. Cada una invierte ciertas cantidaes de dinero, realizando prestamos justos
+para comprar todo lo necesario y asi hacer que el lugar sea llamatico visualmente.</li></p></ul>
+</li>
+</ul>
+</html>
